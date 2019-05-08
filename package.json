@@ -1,0 +1,16 @@
+{
+  "name": "tigerkin-first-pkg",
+  "version": "1.0.0",
+  "description": "My fisrt npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tigerkin",
+    "first",
+    "pkg"
+  ],
+  "author": "zhang.tigerkin",
+  "license": "MIT"
+}
