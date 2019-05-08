@@ -12,5 +12,9 @@
     "pkg"
   ],
   "author": "zhang.tigerkin",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangtaigong/tigerkin-first-pkg"
+  }
 }
