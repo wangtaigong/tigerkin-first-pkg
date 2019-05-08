@@ -1,7 +1,3 @@
-const showMsg = function () {
+exports.showMsg = function () {
 	console.log('This is my first module')
-}
-
-export default {
-	showMsg
 }
