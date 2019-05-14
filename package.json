@@ -1,6 +1,6 @@
 {
   "name": "tigerkin-first-pkg",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "My fisrt npm package",
   "main": "index.js",
   "scripts": {
